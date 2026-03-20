@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Agentic Automation",
+  "description": "Multi-agent system for automated GitHub issue resolution, code modification, and PR creation.",
+  "requestFramePermissions": []
+}
